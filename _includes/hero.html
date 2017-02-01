@@ -1,8 +1,12 @@
 <section class="hero">
   <div class="wrapper text-center">
+    <img src="images/CLEHousingHack_Logo.png" alt="">
+    <p></p>
+    <div class="container">
     <h1 rel="title">{{ site.event.name }}</h1>
     <h2 rel="description">{{ site.event.description }}</h2>
     <h3 rel="location">{{ site.event.date }} &mdash; {{ site.event.location }}</h3>
+    </div>
     <hr>
     <div class="buttons">
       {% for link in site.event.hero.links %}
