@@ -28,7 +28,6 @@ seo:
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
-
 # Event information.
 event:
   name:        "Cleveland Housing Hackathon"
